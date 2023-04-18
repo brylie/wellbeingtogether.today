@@ -2,4 +2,7 @@ baseURL = 'https://wellbeingtogether.today/'
 languageCode = 'en-us'
 title = 'Wellbeing Together Today'
 
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+theme = ['github.com/theNewDynamic/gohugo-theme-ananke']
+[params]
+    background_color_class = "bg-blue"
+    description = 'Being well together, one day at a time'
