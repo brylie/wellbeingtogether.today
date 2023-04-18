@@ -1,3 +1,5 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://wellbeingtogether.today/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Wellbeing Together Today'
+
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
