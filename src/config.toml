@@ -6,3 +6,11 @@ theme = ['github.com/theNewDynamic/gohugo-theme-ananke']
 [params]
     background_color_class = "bg-blue"
     description = 'Being well together, one day at a time'
+
+[[params.ananke_socials]]
+name = 'instagram'
+url = 'https://www.instagram.com/wellbeingtogethertoday/'
+
+[[params.ananke_socials]]
+name = 'youtube'
+url = 'https://www.youtube.com/@WellbeingTogether'
